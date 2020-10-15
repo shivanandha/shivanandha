@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![TryHackMe-alt-tag](https://tryhackme-badges.s3.amazonaws.com/rudolfcheslav.png)
 <!--
 **shivanandha/shivanandha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![TryHackMe-alt-tag](https://tryhackme-badges.s3.amazonaws.com/rudolfcheslav.png)
+
 <script src="https://tryhackme.com/badge/168965"></script>
