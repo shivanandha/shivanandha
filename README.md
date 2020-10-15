@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 <script src="https://tryhackme.com/badge/168965"></script>
+-->
+TryHackMe Badge: 
+![THM badge][thm_badge]
+[thm_badge]: https://tryhackme-badges.s3.amazonaws.com/rudolfcheslav.png
