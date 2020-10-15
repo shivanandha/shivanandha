@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![TryHackMe-alt-tag](https://tryhackme-badges.s3.amazonaws.com/rudolfcheslav.png)
 -->
 TryHackMe Badge: 
-![THM badge][thm_badge]
+![THMbadge][thm_badge]
 [thm_badge]: https://tryhackme-badges.s3.amazonaws.com/rudolfcheslav.png
