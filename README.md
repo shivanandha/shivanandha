@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![myimage-alt-tag](https://tryhackme-badges.s3.amazonaws.com/rudolfcheslav.png" alt="TryHackMe)
+![TryHackMe-alt-tag](https://tryhackme-badges.s3.amazonaws.com/rudolfcheslav.png)
 <script src="https://tryhackme.com/badge/168965"></script>
