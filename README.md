@@ -1,5 +1,4 @@
-<div align="center">welcome</div>
-# Welcome to my profile.
+<div align="center"><h1>Welcome to my profile.</h1></div>
 ### Hi there 👋
 
 <!--
