@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <script src="https://tryhackme.com/badge/168965"></script>
 ![TryHackMe-alt-tag](https://tryhackme-badges.s3.amazonaws.com/rudolfcheslav.png)
--->
 TryHackMe Badge: 
 ![THMbadge][thm_badge]
 [thm_badge]: https://tryhackme-badges.s3.amazonaws.com/rudolfcheslav.png
+
+-->
