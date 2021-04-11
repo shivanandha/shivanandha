@@ -21,3 +21,5 @@ TryHackMe Badge:
 
 -->
 ### Hi There 👋
+
+My Medium profile - https://medium.com/@katsu-midoriya
