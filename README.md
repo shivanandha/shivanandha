@@ -24,4 +24,4 @@ TryHackMe Badge:
 
 - My Medium profile - https://medium.com/@katsu-midoriya
 - My Tryhackme profile - https://tryhackme.com/p/rudolfcheslav
-![TryHackMe-alt-tag](https://tryhackme-badges.s3.amazonaws.com/rudolfcheslav.png)
+
